@@ -1,5 +1,5 @@
 ## Hi there 👋
-Wassup. I'm Durhat. I'm studying Data and Information Science at the University of Applied Sciences Cologne (*TH Köln*). My enthusiasm for coding is indescribable. There is a guy named *Noah* who wanna compete with me but I'd reccomend to not listen to him. He is an absolute gooflord. Coding is my passion and there is nobody better than me. Noah is actually voting the so called *ALternative for Germany*. Just saying.
+Wassup. I'm Durhat. I'm studying Data and Information Science at the University of Applied Sciences Cologne (*TH Köln*). My enthusiasm for coding is indescribable. There is a guy named *Noah* who wanna compete with me but I'd reccomend to not listen to him. He is an absolute gooflord. Coding is my passion and there is nobody better than me.
 
 <!--
 **Durhat/Durhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
